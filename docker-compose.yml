@@ -1,0 +1,54 @@
+version: '3.7'
+services:
+#Elasticsearch
+  elasticsearch:
+    image: docker.elastic.co/elasticsearch/elasticsearch-oss:7.0.0
+    container_name: elasticsearch
+    volumes:
+      - /home/jpmantuano/Development/Server/elk/7.0.0/elasticsearch/data:/usr/share/elasticsearch/data
+      #- /home/jpmantuano/Development/Server/elk/7.0.0/elasticsearch/config:/usr/share/elasticsearch/config:ro
+      - /home/jpmantuano/Development/Server/elk/7.0.0/elasticsearch/plugins:/usr/share/elasticsearch/plugins
+    ports:
+      - 9200:9200
+      - 9300:9300
+    environment:
+      - bootstrap.memory_lock=true
+      - "ES_JAVA_OPTS=-Xmx2g -Xms2g"
+    ulimits:
+      memlock:
+        soft: -1
+        hard: -1
+      nofile:
+        soft: 262144
+        hard: 262144
+    cap_add:
+      - IPC_LOCK
+    network_mode: "host"
+#Kibana
+  kibana:
+    image: docker.elastic.co/kibana/kibana-oss:7.0.0
+    container_name: kibana
+    volumes:
+      #- /home/jpmantuano/Development/Server/elk/7.0.0/kibana/config:/usr/share/kibana/config:ro
+      - /home/jpmantuano/Development/Server/elk/7.0.0/kibana/data:/usr/share/kibana/data
+    ports:
+      - 5601:5601
+    environment:
+      SERVER_NAME: localhost
+      ELASTICSEARCH_URL: http://localhost:9200/
+    network_mode: "host"
+    depends_on:
+      - elasticsearch
+#Logstash
+  logstash:
+    image: docker.elastic.co/logstash/logstash-oss:7.0.0
+    container_name: logstash
+    volumes:
+      - /home/jpmantuano/Development/Server/elk/7.0.0/logstash/config:/usr/share/logstash/config:ro
+      - /home/jpmantuano/Development/Server/elk/7.0.0/logstash/pipeline:/usr/share/logstash/pipeline:ro
+      - /home/jpmantuano/Development/Server/elk/7.0.0/logstash/data:/usr/share/logstash/data
+    ports:
+      - 5044:5044
+    network_mode: "host"
+    depends_on:
+      - elasticsearch
