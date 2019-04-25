@@ -1,0 +1,1168 @@
+year,region,species,diameter,php_per_cubic_meter
+2013,National,Falcata,60 cm and above,1600
+2013,National,Gmelina,60 cm and above,6654.33
+2013,National,Ipil-Ipil,60 cm and above,2500
+2013,National,Mahogany,60 cm and above,10113.56
+2013,V (Bicol Region),Falcata,60 cm and above,-
+2013,V (Bicol Region),Gmelina,60 cm and above,10600
+2013,V (Bicol Region),Ipil-Ipil,60 cm and above,-
+2013,V (Bicol Region),Mahogany,60 cm and above,14840
+2013,VII (Central Visayas),Falcata,60 cm and above,-
+2013,VII (Central Visayas),Gmelina,60 cm and above,11271.33
+2013,VII (Central Visayas),Ipil-Ipil,60 cm and above,-
+2013,VII (Central Visayas),Mahogany,60 cm and above,11200.67
+2013,VIII (Eastern Visayas),Falcata,60 cm and above,-
+2013,VIII (Eastern Visayas),Gmelina,60 cm and above,-
+2013,VIII (Eastern Visayas),Ipil-Ipil,60 cm and above,-
+2013,VIII (Eastern Visayas),Mahogany,60 cm and above,4300
+2013,XI (Davao Region),Falcata,60 cm and above,1600
+2013,XI (Davao Region),Gmelina,60 cm and above,1800
+2013,XI (Davao Region),Ipil-Ipil,60 cm and above,-
+2013,XI (Davao Region),Mahogany,60 cm and above,-
+2013,XII (SOCCSKSARGEN),Falcata,60 cm and above,-
+2013,XII (SOCCSKSARGEN),Gmelina,60 cm and above,2946
+2013,XII (SOCCSKSARGEN),Ipil-Ipil,60 cm and above,2500
+2013,XII (SOCCSKSARGEN),Mahogany,60 cm and above,-
+2012,National,Acacia,60 cm and above,9229
+2012,National,Almon,60 cm and above,4900
+2012,National,Apitong,60 cm and above,3000
+2012,National,Bagras,60 cm and above,3000
+2012,National,Bagtikan,60 cm and above,3800
+2012,National,Binuang,60 cm and above,3000
+2012,National,Falcata,60 cm and above,2336
+2012,National,Gmelina,60 cm and above,7632
+2012,National,Lauan,60 cm and above,4300
+2012,National,Loktob,60 cm and above,3000
+2012,National,Mahogany,60 cm and above,2500
+2012,National,Marang,60 cm and above,3000
+2012,National,Tangile,60 cm and above,3800
+2012,III (Central Luzon),Acacia,60 cm and above,-
+2012,III (Central Luzon),Almon,60 cm and above,6000
+2012,III (Central Luzon),Apitong,60 cm and above,-
+2012,III (Central Luzon),Bagras,60 cm and above,-
+2012,III (Central Luzon),Bagtikan,60 cm and above,-
+2012,III (Central Luzon),Binuang,60 cm and above,-
+2012,III (Central Luzon),Falcata,60 cm and above,-
+2012,III (Central Luzon),Gmelina,60 cm and above,-
+2012,III (Central Luzon),Lauan,60 cm and above,-
+2012,III (Central Luzon),Loktob,60 cm and above,-
+2012,III (Central Luzon),Mahogany,60 cm and above,2000
+2012,III (Central Luzon),Marang,60 cm and above,-
+2012,III (Central Luzon),Tangile,60 cm and above,-
+2012,V (Bicol Region),Acacia,60 cm and above,9229
+2012,V (Bicol Region),Almon,60 cm and above,-
+2012,V (Bicol Region),Apitong,60 cm and above,-
+2012,V (Bicol Region),Bagras,60 cm and above,-
+2012,V (Bicol Region),Bagtikan,60 cm and above,-
+2012,V (Bicol Region),Binuang,60 cm and above,-
+2012,V (Bicol Region),Falcata,60 cm and above,-
+2012,V (Bicol Region),Gmelina,60 cm and above,7632
+2012,V (Bicol Region),Lauan,60 cm and above,-
+2012,V (Bicol Region),Loktob,60 cm and above,-
+2012,V (Bicol Region),Mahogany,60 cm and above,-
+2012,V (Bicol Region),Marang,60 cm and above,-
+2012,V (Bicol Region),Tangile,60 cm and above,-
+2012,XI (Davao Region),Acacia,60 cm and above,-
+2012,XI (Davao Region),Almon,60 cm and above,3800
+2012,XI (Davao Region),Apitong,60 cm and above,3000
+2012,XI (Davao Region),Bagras,60 cm and above,3000
+2012,XI (Davao Region),Bagtikan,60 cm and above,3800
+2012,XI (Davao Region),Binuang,60 cm and above,3000
+2012,XI (Davao Region),Falcata,60 cm and above,2672
+2012,XI (Davao Region),Gmelina,60 cm and above,-
+2012,XI (Davao Region),Lauan,60 cm and above,4300
+2012,XI (Davao Region),Loktob,60 cm and above,3000
+2012,XI (Davao Region),Mahogany,60 cm and above,3000
+2012,XI (Davao Region),Marang,60 cm and above,3000
+2012,XI (Davao Region),Tangile,60 cm and above,3800
+2012,XIII (Caraga),Acacia,60 cm and above,-
+2012,XIII (Caraga),Almon,60 cm and above,-
+2012,XIII (Caraga),Apitong,60 cm and above,-
+2012,XIII (Caraga),Bagras,60 cm and above,-
+2012,XIII (Caraga),Bagtikan,60 cm and above,-
+2012,XIII (Caraga),Binuang,60 cm and above,-
+2012,XIII (Caraga),Falcata,60 cm and above,2000
+2012,XIII (Caraga),Gmelina,60 cm and above,-
+2012,XIII (Caraga),Lauan,60 cm and above,-
+2012,XIII (Caraga),Loktob,60 cm and above,-
+2012,XIII (Caraga),Mahogany,60 cm and above,-
+2012,XIII (Caraga),Marang,60 cm and above,-
+2012,XIII (Caraga),Tangile,60 cm and above,-
+2011,National,Acacia,60 cm and above,5316
+2011,National,Almon,60 cm and above,3800
+2011,National,Apitong,60 cm and above,3650
+2011,National,Bagras,60 cm and above,3000
+2011,National,Bagtikan,60 cm and above,4900
+2011,National,Binuang,60 cm and above,3000
+2011,National,Dangula,60 cm and above,3500
+2011,National,Falcata,60 cm and above,2353.25
+2011,National,Gmelina,60 cm and above,6884
+2011,National,Lauan,60 cm and above,6157.5
+2011,National,Loktob,60 cm and above,3000
+2011,National,Mahogany,60 cm and above,5471.25
+2011,National,Malugay,60 cm and above,3500
+2011,National,Marang,60 cm and above,3000
+2011,National,Mayapis,60 cm and above,6000
+2011,National,Nato,60 cm and above,4500
+2011,National,Tangile,60 cm and above,4900
+2011,National,Toog,60 cm and above,3950
+2011,National,Yakal,60 cm and above,6000
+2011,III (Central Luzon),Acacia,60 cm and above,-
+2011,III (Central Luzon),Almon,60 cm and above,-
+2011,III (Central Luzon),Apitong,60 cm and above,-
+2011,III (Central Luzon),Bagras,60 cm and above,-
+2011,III (Central Luzon),Bagtikan,60 cm and above,6000
+2011,III (Central Luzon),Binuang,60 cm and above,-
+2011,III (Central Luzon),Dangula,60 cm and above,-
+2011,III (Central Luzon),Falcata,60 cm and above,-
+2011,III (Central Luzon),Gmelina,60 cm and above,-
+2011,III (Central Luzon),Lauan,60 cm and above,-
+2011,III (Central Luzon),Loktob,60 cm and above,-
+2011,III (Central Luzon),Mahogany,60 cm and above,-
+2011,III (Central Luzon),Malugay,60 cm and above,-
+2011,III (Central Luzon),Marang,60 cm and above,-
+2011,III (Central Luzon),Mayapis,60 cm and above,6000
+2011,III (Central Luzon),Nato,60 cm and above,-
+2011,III (Central Luzon),Tangile,60 cm and above,6000
+2011,III (Central Luzon),Toog,60 cm and above,-
+2011,III (Central Luzon),Yakal,60 cm and above,-
+2011,V (Bicol Region),Acacia,60 cm and above,7632
+2011,V (Bicol Region),Almon,60 cm and above,-
+2011,V (Bicol Region),Apitong,60 cm and above,-
+2011,V (Bicol Region),Bagras,60 cm and above,-
+2011,V (Bicol Region),Bagtikan,60 cm and above,-
+2011,V (Bicol Region),Binuang,60 cm and above,-
+2011,V (Bicol Region),Dangula,60 cm and above,-
+2011,V (Bicol Region),Falcata,60 cm and above,-
+2011,V (Bicol Region),Gmelina,60 cm and above,-
+2011,V (Bicol Region),Lauan,60 cm and above,-
+2011,V (Bicol Region),Loktob,60 cm and above,-
+2011,V (Bicol Region),Mahogany,60 cm and above,-
+2011,V (Bicol Region),Malugay,60 cm and above,-
+2011,V (Bicol Region),Marang,60 cm and above,-
+2011,V (Bicol Region),Mayapis,60 cm and above,-
+2011,V (Bicol Region),Nato,60 cm and above,-
+2011,V (Bicol Region),Tangile,60 cm and above,-
+2011,V (Bicol Region),Toog,60 cm and above,-
+2011,V (Bicol Region),Yakal,60 cm and above,-
+2011,VII (Central Visayas),Acacia,60 cm and above,-
+2011,VII (Central Visayas),Almon,60 cm and above,-
+2011,VII (Central Visayas),Apitong,60 cm and above,-
+2011,VII (Central Visayas),Bagras,60 cm and above,-
+2011,VII (Central Visayas),Bagtikan,60 cm and above,-
+2011,VII (Central Visayas),Binuang,60 cm and above,-
+2011,VII (Central Visayas),Dangula,60 cm and above,-
+2011,VII (Central Visayas),Falcata,60 cm and above,-
+2011,VII (Central Visayas),Gmelina,60 cm and above,10247
+2011,VII (Central Visayas),Lauan,60 cm and above,-
+2011,VII (Central Visayas),Loktob,60 cm and above,-
+2011,VII (Central Visayas),Mahogany,60 cm and above,11063
+2011,VII (Central Visayas),Malugay,60 cm and above,-
+2011,VII (Central Visayas),Marang,60 cm and above,-
+2011,VII (Central Visayas),Mayapis,60 cm and above,-
+2011,VII (Central Visayas),Nato,60 cm and above,-
+2011,VII (Central Visayas),Tangile,60 cm and above,-
+2011,VII (Central Visayas),Toog,60 cm and above,-
+2011,VII (Central Visayas),Yakal,60 cm and above,-
+2011,VIII (Eastern Visayas),Acacia,60 cm and above,-
+2011,VIII (Eastern Visayas),Almon,60 cm and above,-
+2011,VIII (Eastern Visayas),Apitong,60 cm and above,-
+2011,VIII (Eastern Visayas),Bagras,60 cm and above,-
+2011,VIII (Eastern Visayas),Bagtikan,60 cm and above,-
+2011,VIII (Eastern Visayas),Binuang,60 cm and above,-
+2011,VIII (Eastern Visayas),Dangula,60 cm and above,-
+2011,VIII (Eastern Visayas),Falcata,60 cm and above,-
+2011,VIII (Eastern Visayas),Gmelina,60 cm and above,-
+2011,VIII (Eastern Visayas),Lauan,60 cm and above,-
+2011,VIII (Eastern Visayas),Loktob,60 cm and above,-
+2011,VIII (Eastern Visayas),Mahogany,60 cm and above,4300
+2011,VIII (Eastern Visayas),Malugay,60 cm and above,-
+2011,VIII (Eastern Visayas),Marang,60 cm and above,-
+2011,VIII (Eastern Visayas),Mayapis,60 cm and above,-
+2011,VIII (Eastern Visayas),Nato,60 cm and above,-
+2011,VIII (Eastern Visayas),Tangile,60 cm and above,-
+2011,VIII (Eastern Visayas),Toog,60 cm and above,-
+2011,VIII (Eastern Visayas),Yakal,60 cm and above,-
+2011,IX (Zamboanga Peninsula),Acacia,60 cm and above,-
+2011,IX (Zamboanga Peninsula),Almon,60 cm and above,-
+2011,IX (Zamboanga Peninsula),Apitong,60 cm and above,-
+2011,IX (Zamboanga Peninsula),Bagras,60 cm and above,-
+2011,IX (Zamboanga Peninsula),Bagtikan,60 cm and above,-
+2011,IX (Zamboanga Peninsula),Binuang,60 cm and above,-
+2011,IX (Zamboanga Peninsula),Dangula,60 cm and above,-
+2011,IX (Zamboanga Peninsula),Falcata,60 cm and above,2743
+2011,IX (Zamboanga Peninsula),Gmelina,60 cm and above,5317
+2011,IX (Zamboanga Peninsula),Lauan,60 cm and above,-
+2011,IX (Zamboanga Peninsula),Loktob,60 cm and above,-
+2011,IX (Zamboanga Peninsula),Mahogany,60 cm and above,3522
+2011,IX (Zamboanga Peninsula),Malugay,60 cm and above,-
+2011,IX (Zamboanga Peninsula),Marang,60 cm and above,-
+2011,IX (Zamboanga Peninsula),Mayapis,60 cm and above,-
+2011,IX (Zamboanga Peninsula),Nato,60 cm and above,-
+2011,IX (Zamboanga Peninsula),Tangile,60 cm and above,-
+2011,IX (Zamboanga Peninsula),Toog,60 cm and above,-
+2011,IX (Zamboanga Peninsula),Yakal,60 cm and above,-
+2011,X (Northern Mindanao),Acacia,60 cm and above,-
+2011,X (Northern Mindanao),Almon,60 cm and above,-
+2011,X (Northern Mindanao),Apitong,60 cm and above,-
+2011,X (Northern Mindanao),Bagras,60 cm and above,-
+2011,X (Northern Mindanao),Bagtikan,60 cm and above,-
+2011,X (Northern Mindanao),Binuang,60 cm and above,-
+2011,X (Northern Mindanao),Dangula,60 cm and above,-
+2011,X (Northern Mindanao),Falcata,60 cm and above,2500
+2011,X (Northern Mindanao),Gmelina,60 cm and above,-
+2011,X (Northern Mindanao),Lauan,60 cm and above,-
+2011,X (Northern Mindanao),Loktob,60 cm and above,-
+2011,X (Northern Mindanao),Mahogany,60 cm and above,-
+2011,X (Northern Mindanao),Malugay,60 cm and above,-
+2011,X (Northern Mindanao),Marang,60 cm and above,-
+2011,X (Northern Mindanao),Mayapis,60 cm and above,-
+2011,X (Northern Mindanao),Nato,60 cm and above,-
+2011,X (Northern Mindanao),Tangile,60 cm and above,-
+2011,X (Northern Mindanao),Toog,60 cm and above,-
+2011,X (Northern Mindanao),Yakal,60 cm and above,-
+2011,XI (Davao Region),Acacia,60 cm and above,-
+2011,XI (Davao Region),Almon,60 cm and above,3800
+2011,XI (Davao Region),Apitong,60 cm and above,3000
+2011,XI (Davao Region),Bagras,60 cm and above,3000
+2011,XI (Davao Region),Bagtikan,60 cm and above,3800
+2011,XI (Davao Region),Binuang,60 cm and above,3000
+2011,XI (Davao Region),Dangula,60 cm and above,-
+2011,XI (Davao Region),Falcata,60 cm and above,2941
+2011,XI (Davao Region),Gmelina,60 cm and above,-
+2011,XI (Davao Region),Lauan,60 cm and above,5815
+2011,XI (Davao Region),Loktob,60 cm and above,3000
+2011,XI (Davao Region),Mahogany,60 cm and above,3000
+2011,XI (Davao Region),Malugay,60 cm and above,-
+2011,XI (Davao Region),Marang,60 cm and above,-
+2011,XI (Davao Region),Mayapis,60 cm and above,-
+2011,XI (Davao Region),Nato,60 cm and above,-
+2011,XI (Davao Region),Tangile,60 cm and above,3800
+2011,XI (Davao Region),Toog,60 cm and above,-
+2011,XI (Davao Region),Yakal,60 cm and above,-
+2011,XII (SOCCSKSARGEN),Acacia,60 cm and above,3000
+2011,XII (SOCCSKSARGEN),Almon,60 cm and above,-
+2011,XII (SOCCSKSARGEN),Apitong,60 cm and above,-
+2011,XII (SOCCSKSARGEN),Bagras,60 cm and above,-
+2011,XII (SOCCSKSARGEN),Bagtikan,60 cm and above,-
+2011,XII (SOCCSKSARGEN),Binuang,60 cm and above,-
+2011,XII (SOCCSKSARGEN),Dangula,60 cm and above,-
+2011,XII (SOCCSKSARGEN),Falcata,60 cm and above,-
+2011,XII (SOCCSKSARGEN),Gmelina,60 cm and above,5088
+2011,XII (SOCCSKSARGEN),Lauan,60 cm and above,-
+2011,XII (SOCCSKSARGEN),Loktob,60 cm and above,-
+2011,XII (SOCCSKSARGEN),Mahogany,60 cm and above,-
+2011,XII (SOCCSKSARGEN),Malugay,60 cm and above,-
+2011,XII (SOCCSKSARGEN),Marang,60 cm and above,-
+2011,XII (SOCCSKSARGEN),Mayapis,60 cm and above,-
+2011,XII (SOCCSKSARGEN),Nato,60 cm and above,-
+2011,XII (SOCCSKSARGEN),Tangile,60 cm and above,-
+2011,XII (SOCCSKSARGEN),Toog,60 cm and above,-
+2011,XII (SOCCSKSARGEN),Yakal,60 cm and above,-
+2011,XIII (Caraga),Acacia,60 cm and above,-
+2011,XIII (Caraga),Almon,60 cm and above,-
+2011,XIII (Caraga),Apitong,60 cm and above,4300
+2011,XIII (Caraga),Bagras,60 cm and above,-
+2011,XIII (Caraga),Bagtikan,60 cm and above,-
+2011,XIII (Caraga),Binuang,60 cm and above,-
+2011,XIII (Caraga),Dangula,60 cm and above,3500
+2011,XIII (Caraga),Falcata,60 cm and above,1229
+2011,XIII (Caraga),Gmelina,60 cm and above,-
+2011,XIII (Caraga),Lauan,60 cm and above,6500
+2011,XIII (Caraga),Loktob,60 cm and above,-
+2011,XIII (Caraga),Mahogany,60 cm and above,-
+2011,XIII (Caraga),Malugay,60 cm and above,3500
+2011,XIII (Caraga),Marang,60 cm and above,3000
+2011,XIII (Caraga),Mayapis,60 cm and above,-
+2011,XIII (Caraga),Nato,60 cm and above,4500
+2011,XIII (Caraga),Tangile,60 cm and above,-
+2011,XIII (Caraga),Toog,60 cm and above,3950
+2011,XIII (Caraga),Yakal,60 cm and above,6000
+2010,National,Acacia,60 cm and above,5920
+2010,National,Almon,60 cm and above,3800
+2010,National,Apitong,60 cm and above,4743.25
+2010,National,Bagtikan,60 cm and above,4933.33
+2010,National,Binuang,60 cm and above,3000
+2010,National,Dangula,60 cm and above,3500
+2010,National,Falcata,60 cm and above,2696.5
+2010,National,Gmelina,60 cm and above,8820.5
+2010,National,Guijo,60 cm and above,5000
+2010,National,Ipil-Ipil,60 cm and above,1350
+2010,National,Lauan,60 cm and above,5850
+2010,National,Loktob,60 cm and above,3000
+2010,National,Mahogany,60 cm and above,7173.5
+2010,National,Malugay,60 cm and above,3500
+2010,National,Mayapis,60 cm and above,5500
+2010,National,Nato,60 cm and above,4500
+2010,National,Tangile,60 cm and above,4933.33
+2010,National,Toog,60 cm and above,5900
+2010,National,Yakal,60 cm and above,6000
+2010,NCR,Acacia,60 cm and above,-
+2010,NCR,Almon,60 cm and above,-
+2010,NCR,Apitong,60 cm and above,5000
+2010,NCR,Bagtikan,60 cm and above,5000
+2010,NCR,Binuang,60 cm and above,-
+2010,NCR,Dangula,60 cm and above,-
+2010,NCR,Falcata,60 cm and above,-
+2010,NCR,Gmelina,60 cm and above,-
+2010,NCR,Guijo,60 cm and above,5000
+2010,NCR,Ipil-Ipil,60 cm and above,-
+2010,NCR,Lauan,60 cm and above,5000
+2010,NCR,Loktob,60 cm and above,-
+2010,NCR,Mahogany,60 cm and above,-
+2010,NCR,Malugay,60 cm and above,-
+2010,NCR,Mayapis,60 cm and above,5000
+2010,NCR,Nato,60 cm and above,-
+2010,NCR,Tangile,60 cm and above,5000
+2010,NCR,Toog,60 cm and above,-
+2010,NCR,Yakal,60 cm and above,-
+2010,CAR,Acacia,60 cm and above,-
+2010,CAR,Almon,60 cm and above,-
+2010,CAR,Apitong,60 cm and above,5000
+2010,CAR,Bagtikan,60 cm and above,-
+2010,CAR,Binuang,60 cm and above,-
+2010,CAR,Dangula,60 cm and above,-
+2010,CAR,Falcata,60 cm and above,-
+2010,CAR,Gmelina,60 cm and above,-
+2010,CAR,Guijo,60 cm and above,-
+2010,CAR,Ipil-Ipil,60 cm and above,-
+2010,CAR,Lauan,60 cm and above,-
+2010,CAR,Loktob,60 cm and above,-
+2010,CAR,Mahogany,60 cm and above,-
+2010,CAR,Malugay,60 cm and above,-
+2010,CAR,Mayapis,60 cm and above,-
+2010,CAR,Nato,60 cm and above,-
+2010,CAR,Tangile,60 cm and above,-
+2010,CAR,Toog,60 cm and above,-
+2010,CAR,Yakal,60 cm and above,-
+2010,III (Central Luzon),Acacia,60 cm and above,-
+2010,III (Central Luzon),Almon,60 cm and above,-
+2010,III (Central Luzon),Apitong,60 cm and above,-
+2010,III (Central Luzon),Bagtikan,60 cm and above,6000
+2010,III (Central Luzon),Binuang,60 cm and above,-
+2010,III (Central Luzon),Dangula,60 cm and above,-
+2010,III (Central Luzon),Falcata,60 cm and above,-
+2010,III (Central Luzon),Gmelina,60 cm and above,-
+2010,III (Central Luzon),Guijo,60 cm and above,-
+2010,III (Central Luzon),Ipil-Ipil,60 cm and above,-
+2010,III (Central Luzon),Lauan,60 cm and above,-
+2010,III (Central Luzon),Loktob,60 cm and above,-
+2010,III (Central Luzon),Mahogany,60 cm and above,-
+2010,III (Central Luzon),Malugay,60 cm and above,-
+2010,III (Central Luzon),Mayapis,60 cm and above,6000
+2010,III (Central Luzon),Nato,60 cm and above,-
+2010,III (Central Luzon),Tangile,60 cm and above,6000
+2010,III (Central Luzon),Toog,60 cm and above,-
+2010,III (Central Luzon),Yakal,60 cm and above,-
+2010,V (Bicol Region),Acacia,60 cm and above,8840
+2010,V (Bicol Region),Almon,60 cm and above,-
+2010,V (Bicol Region),Apitong,60 cm and above,-
+2010,V (Bicol Region),Bagtikan,60 cm and above,-
+2010,V (Bicol Region),Binuang,60 cm and above,-
+2010,V (Bicol Region),Dangula,60 cm and above,-
+2010,V (Bicol Region),Falcata,60 cm and above,-
+2010,V (Bicol Region),Gmelina,60 cm and above,7632
+2010,V (Bicol Region),Guijo,60 cm and above,-
+2010,V (Bicol Region),Ipil-Ipil,60 cm and above,-
+2010,V (Bicol Region),Lauan,60 cm and above,-
+2010,V (Bicol Region),Loktob,60 cm and above,-
+2010,V (Bicol Region),Mahogany,60 cm and above,-
+2010,V (Bicol Region),Malugay,60 cm and above,-
+2010,V (Bicol Region),Mayapis,60 cm and above,-
+2010,V (Bicol Region),Nato,60 cm and above,-
+2010,V (Bicol Region),Tangile,60 cm and above,-
+2010,V (Bicol Region),Toog,60 cm and above,-
+2010,V (Bicol Region),Yakal,60 cm and above,-
+2010,VII (Central Visayas),Acacia,60 cm and above,-
+2010,VII (Central Visayas),Almon,60 cm and above,-
+2010,VII (Central Visayas),Apitong,60 cm and above,-
+2010,VII (Central Visayas),Bagtikan,60 cm and above,-
+2010,VII (Central Visayas),Binuang,60 cm and above,-
+2010,VII (Central Visayas),Dangula,60 cm and above,-
+2010,VII (Central Visayas),Falcata,60 cm and above,-
+2010,VII (Central Visayas),Gmelina,60 cm and above,10009
+2010,VII (Central Visayas),Guijo,60 cm and above,-
+2010,VII (Central Visayas),Ipil-Ipil,60 cm and above,-
+2010,VII (Central Visayas),Lauan,60 cm and above,-
+2010,VII (Central Visayas),Loktob,60 cm and above,-
+2010,VII (Central Visayas),Mahogany,60 cm and above,10847
+2010,VII (Central Visayas),Malugay,60 cm and above,-
+2010,VII (Central Visayas),Mayapis,60 cm and above,-
+2010,VII (Central Visayas),Nato,60 cm and above,-
+2010,VII (Central Visayas),Tangile,60 cm and above,-
+2010,VII (Central Visayas),Toog,60 cm and above,-
+2010,VII (Central Visayas),Yakal,60 cm and above,-
+2010,X (Northern Mindanao),Acacia,60 cm and above,-
+2010,X (Northern Mindanao),Almon,60 cm and above,-
+2010,X (Northern Mindanao),Apitong,60 cm and above,-
+2010,X (Northern Mindanao),Bagtikan,60 cm and above,-
+2010,X (Northern Mindanao),Binuang,60 cm and above,-
+2010,X (Northern Mindanao),Dangula,60 cm and above,-
+2010,X (Northern Mindanao),Falcata,60 cm and above,2500
+2010,X (Northern Mindanao),Gmelina,60 cm and above,-
+2010,X (Northern Mindanao),Guijo,60 cm and above,-
+2010,X (Northern Mindanao),Ipil-Ipil,60 cm and above,-
+2010,X (Northern Mindanao),Lauan,60 cm and above,-
+2010,X (Northern Mindanao),Loktob,60 cm and above,-
+2010,X (Northern Mindanao),Mahogany,60 cm and above,-
+2010,X (Northern Mindanao),Malugay,60 cm and above,-
+2010,X (Northern Mindanao),Mayapis,60 cm and above,-
+2010,X (Northern Mindanao),Nato,60 cm and above,-
+2010,X (Northern Mindanao),Tangile,60 cm and above,-
+2010,X (Northern Mindanao),Toog,60 cm and above,-
+2010,X (Northern Mindanao),Yakal,60 cm and above,-
+2010,XI (Davao Region),Acacia,60 cm and above,-
+2010,XI (Davao Region),Almon,60 cm and above,3800
+2010,XI (Davao Region),Apitong,60 cm and above,3000
+2010,XI (Davao Region),Bagtikan,60 cm and above,3800
+2010,XI (Davao Region),Binuang,60 cm and above,3000
+2010,XI (Davao Region),Dangula,60 cm and above,-
+2010,XI (Davao Region),Falcata,60 cm and above,2893
+2010,XI (Davao Region),Gmelina,60 cm and above,-
+2010,XI (Davao Region),Guijo,60 cm and above,-
+2010,XI (Davao Region),Ipil-Ipil,60 cm and above,1350
+2010,XI (Davao Region),Lauan,60 cm and above,6012
+2010,XI (Davao Region),Loktob,60 cm and above,3000
+2010,XI (Davao Region),Mahogany,60 cm and above,-
+2010,XI (Davao Region),Malugay,60 cm and above,-
+2010,XI (Davao Region),Mayapis,60 cm and above,-
+2010,XI (Davao Region),Nato,60 cm and above,-
+2010,XI (Davao Region),Tangile,60 cm and above,3800
+2010,XI (Davao Region),Toog,60 cm and above,-
+2010,XI (Davao Region),Yakal,60 cm and above,-
+2010,XII (SOCCSKSARGEN),Acacia,60 cm and above,3000
+2010,XII (SOCCSKSARGEN),Almon,60 cm and above,-
+2010,XII (SOCCSKSARGEN),Apitong,60 cm and above,-
+2010,XII (SOCCSKSARGEN),Bagtikan,60 cm and above,-
+2010,XII (SOCCSKSARGEN),Binuang,60 cm and above,-
+2010,XII (SOCCSKSARGEN),Dangula,60 cm and above,-
+2010,XII (SOCCSKSARGEN),Falcata,60 cm and above,-
+2010,XII (SOCCSKSARGEN),Gmelina,60 cm and above,-
+2010,XII (SOCCSKSARGEN),Guijo,60 cm and above,-
+2010,XII (SOCCSKSARGEN),Ipil-Ipil,60 cm and above,-
+2010,XII (SOCCSKSARGEN),Lauan,60 cm and above,-
+2010,XII (SOCCSKSARGEN),Loktob,60 cm and above,-
+2010,XII (SOCCSKSARGEN),Mahogany,60 cm and above,-
+2010,XII (SOCCSKSARGEN),Malugay,60 cm and above,-
+2010,XII (SOCCSKSARGEN),Mayapis,60 cm and above,-
+2010,XII (SOCCSKSARGEN),Nato,60 cm and above,-
+2010,XII (SOCCSKSARGEN),Tangile,60 cm and above,-
+2010,XII (SOCCSKSARGEN),Toog,60 cm and above,-
+2010,XII (SOCCSKSARGEN),Yakal,60 cm and above,-
+2010,XIII (Caraga),Acacia,60 cm and above,-
+2010,XIII (Caraga),Almon,60 cm and above,-
+2010,XIII (Caraga),Apitong,60 cm and above,5973
+2010,XIII (Caraga),Bagtikan,60 cm and above,-
+2010,XIII (Caraga),Binuang,60 cm and above,-
+2010,XIII (Caraga),Dangula,60 cm and above,3500
+2010,XIII (Caraga),Falcata,60 cm and above,-
+2010,XIII (Caraga),Gmelina,60 cm and above,-
+2010,XIII (Caraga),Guijo,60 cm and above,-
+2010,XIII (Caraga),Ipil-Ipil,60 cm and above,-
+2010,XIII (Caraga),Lauan,60 cm and above,6538
+2010,XIII (Caraga),Loktob,60 cm and above,-
+2010,XIII (Caraga),Mahogany,60 cm and above,3500
+2010,XIII (Caraga),Malugay,60 cm and above,3500
+2010,XIII (Caraga),Mayapis,60 cm and above,-
+2010,XIII (Caraga),Nato,60 cm and above,4500
+2010,XIII (Caraga),Tangile,60 cm and above,-
+2010,XIII (Caraga),Toog,60 cm and above,5900
+2010,XIII (Caraga),Yakal,60 cm and above,6000
+2009,National,A. Mangium,60 cm and above,1500
+2009,National,Acacia,60 cm and above,3000
+2009,National,Apitong,60 cm and above,4283.75
+2009,National,Bagtikan,60 cm and above,4933.33
+2009,National,Falcata,60 cm and above,2610.33
+2009,National,Gmelina,60 cm and above,1724
+2009,National,Gubas,60 cm and above,2000
+2009,National,Guijo,60 cm and above,5000
+2009,National,Ipil-Ipil,60 cm and above,1350
+2009,National,Lauan,60 cm and above,5100
+2009,National,Loktob,60 cm and above,3000
+2009,National,Mahogany,60 cm and above,2800
+2009,National,Mango,60 cm and above,2200
+2009,National,Marang,60 cm and above,2200
+2009,National,Mayapis,60 cm and above,5333.33
+2009,National,Tangile,60 cm and above,5007.25
+2009,NCR,A. Mangium,60 cm and above,-
+2009,NCR,Acacia,60 cm and above,-
+2009,NCR,Apitong,60 cm and above,5000
+2009,NCR,Bagtikan,60 cm and above,5000
+2009,NCR,Falcata,60 cm and above,-
+2009,NCR,Gmelina,60 cm and above,-
+2009,NCR,Gubas,60 cm and above,-
+2009,NCR,Guijo,60 cm and above,5000
+2009,NCR,Ipil-Ipil,60 cm and above,-
+2009,NCR,Lauan,60 cm and above,5000
+2009,NCR,Loktob,60 cm and above,-
+2009,NCR,Mahogany,60 cm and above,-
+2009,NCR,Mango,60 cm and above,-
+2009,NCR,Marang,60 cm and above,-
+2009,NCR,Mayapis,60 cm and above,5000
+2009,NCR,Tangile,60 cm and above,5000
+2009,CAR,A. Mangium,60 cm and above,-
+2009,CAR,Acacia,60 cm and above,-
+2009,CAR,Apitong,60 cm and above,5000
+2009,CAR,Bagtikan,60 cm and above,-
+2009,CAR,Falcata,60 cm and above,-
+2009,CAR,Gmelina,60 cm and above,-
+2009,CAR,Gubas,60 cm and above,-
+2009,CAR,Guijo,60 cm and above,-
+2009,CAR,Ipil-Ipil,60 cm and above,-
+2009,CAR,Lauan,60 cm and above,5000
+2009,CAR,Loktob,60 cm and above,-
+2009,CAR,Mahogany,60 cm and above,-
+2009,CAR,Mango,60 cm and above,-
+2009,CAR,Marang,60 cm and above,-
+2009,CAR,Mayapis,60 cm and above,5000
+2009,CAR,Tangile,60 cm and above,5000
+2009,III (Central Luzon),A. Mangium,60 cm and above,-
+2009,III (Central Luzon),Acacia,60 cm and above,-
+2009,III (Central Luzon),Apitong,60 cm and above,-
+2009,III (Central Luzon),Bagtikan,60 cm and above,6000
+2009,III (Central Luzon),Falcata,60 cm and above,-
+2009,III (Central Luzon),Gmelina,60 cm and above,-
+2009,III (Central Luzon),Gubas,60 cm and above,-
+2009,III (Central Luzon),Guijo,60 cm and above,-
+2009,III (Central Luzon),Ipil-Ipil,60 cm and above,-
+2009,III (Central Luzon),Lauan,60 cm and above,-
+2009,III (Central Luzon),Loktob,60 cm and above,-
+2009,III (Central Luzon),Mahogany,60 cm and above,-
+2009,III (Central Luzon),Mango,60 cm and above,-
+2009,III (Central Luzon),Marang,60 cm and above,-
+2009,III (Central Luzon),Mayapis,60 cm and above,6000
+2009,III (Central Luzon),Tangile,60 cm and above,6229
+2009,X (Northern Mindanao),A. Mangium,60 cm and above,-
+2009,X (Northern Mindanao),Acacia,60 cm and above,-
+2009,X (Northern Mindanao),Apitong,60 cm and above,-
+2009,X (Northern Mindanao),Bagtikan,60 cm and above,-
+2009,X (Northern Mindanao),Falcata,60 cm and above,2500
+2009,X (Northern Mindanao),Gmelina,60 cm and above,-
+2009,X (Northern Mindanao),Gubas,60 cm and above,-
+2009,X (Northern Mindanao),Guijo,60 cm and above,-
+2009,X (Northern Mindanao),Ipil-Ipil,60 cm and above,-
+2009,X (Northern Mindanao),Lauan,60 cm and above,-
+2009,X (Northern Mindanao),Loktob,60 cm and above,-
+2009,X (Northern Mindanao),Mahogany,60 cm and above,-
+2009,X (Northern Mindanao),Mango,60 cm and above,-
+2009,X (Northern Mindanao),Marang,60 cm and above,-
+2009,X (Northern Mindanao),Mayapis,60 cm and above,-
+2009,X (Northern Mindanao),Tangile,60 cm and above,-
+2009,XI (Davao Region),A. Mangium,60 cm and above,-
+2009,XI (Davao Region),Acacia,60 cm and above,-
+2009,XI (Davao Region),Apitong,60 cm and above,3000
+2009,XI (Davao Region),Bagtikan,60 cm and above,3800
+2009,XI (Davao Region),Falcata,60 cm and above,2391
+2009,XI (Davao Region),Gmelina,60 cm and above,-
+2009,XI (Davao Region),Gubas,60 cm and above,-
+2009,XI (Davao Region),Guijo,60 cm and above,-
+2009,XI (Davao Region),Ipil-Ipil,60 cm and above,1350
+2009,XI (Davao Region),Lauan,60 cm and above,5300
+2009,XI (Davao Region),Loktob,60 cm and above,3000
+2009,XI (Davao Region),Mahogany,60 cm and above,-
+2009,XI (Davao Region),Mango,60 cm and above,2200
+2009,XI (Davao Region),Marang,60 cm and above,2200
+2009,XI (Davao Region),Mayapis,60 cm and above,-
+2009,XI (Davao Region),Tangile,60 cm and above,3800
+2009,XII (SOCCSKSARGEN),A. Mangium,60 cm and above,-
+2009,XII (SOCCSKSARGEN),Acacia,60 cm and above,3000
+2009,XII (SOCCSKSARGEN),Apitong,60 cm and above,-
+2009,XII (SOCCSKSARGEN),Bagtikan,60 cm and above,-
+2009,XII (SOCCSKSARGEN),Falcata,60 cm and above,-
+2009,XII (SOCCSKSARGEN),Gmelina,60 cm and above,-
+2009,XII (SOCCSKSARGEN),Gubas,60 cm and above,-
+2009,XII (SOCCSKSARGEN),Guijo,60 cm and above,-
+2009,XII (SOCCSKSARGEN),Ipil-Ipil,60 cm and above,-
+2009,XII (SOCCSKSARGEN),Lauan,60 cm and above,-
+2009,XII (SOCCSKSARGEN),Loktob,60 cm and above,-
+2009,XII (SOCCSKSARGEN),Mahogany,60 cm and above,-
+2009,XII (SOCCSKSARGEN),Mango,60 cm and above,-
+2009,XII (SOCCSKSARGEN),Marang,60 cm and above,-
+2009,XII (SOCCSKSARGEN),Mayapis,60 cm and above,-
+2009,XII (SOCCSKSARGEN),Tangile,60 cm and above,-
+2009,XIII (Caraga),A. Mangium,60 cm and above,1500
+2009,XIII (Caraga),Acacia,60 cm and above,-
+2009,XIII (Caraga),Apitong,60 cm and above,4135
+2009,XIII (Caraga),Bagtikan,60 cm and above,-
+2009,XIII (Caraga),Falcata,60 cm and above,2940
+2009,XIII (Caraga),Gmelina,60 cm and above,1724
+2009,XIII (Caraga),Gubas,60 cm and above,2000
+2009,XIII (Caraga),Guijo,60 cm and above,-
+2009,XIII (Caraga),Ipil-Ipil,60 cm and above,-
+2009,XIII (Caraga),Lauan,60 cm and above,-
+2009,XIII (Caraga),Loktob,60 cm and above,-
+2009,XIII (Caraga),Mahogany,60 cm and above,2800
+2009,XIII (Caraga),Mango,60 cm and above,-
+2009,XIII (Caraga),Marang,60 cm and above,-
+2009,XIII (Caraga),Mayapis,60 cm and above,-
+2009,XIII (Caraga),Tangile,60 cm and above,-
+2008,National,A. Mangium,60 cm and above,2000
+2008,National,Acacia,60 cm and above,3000
+2008,National,Apitong,60 cm and above,4250
+2008,National,Bagtikan,60 cm and above,6000
+2008,National,Benguet Pine,60 cm and above,6456
+2008,National,Falcata,60 cm and above,3110.33
+2008,National,Gmelina,60 cm and above,2968
+2008,National,Gubas,60 cm and above,2100
+2008,National,Lauan,60 cm and above,3716.67
+2008,National,Mahogany,60 cm and above,4240
+2008,National,Mayapis,60 cm and above,5750
+2008,National,Nato,60 cm and above,1250
+2008,National,Palosapis,60 cm and above,4500
+2008,National,Tangile,60 cm and above,4450
+2008,National,Yakal,60 cm and above,2050
+2008,NCR,A. Mangium,60 cm and above,-
+2008,NCR,Acacia,60 cm and above,-
+2008,NCR,Apitong,60 cm and above,-
+2008,NCR,Bagtikan,60 cm and above,-
+2008,NCR,Benguet Pine,60 cm and above,-
+2008,NCR,Falcata,60 cm and above,-
+2008,NCR,Gmelina,60 cm and above,-
+2008,NCR,Gubas,60 cm and above,-
+2008,NCR,Lauan,60 cm and above,-
+2008,NCR,Mahogany,60 cm and above,-
+2008,NCR,Mayapis,60 cm and above,-
+2008,NCR,Nato,60 cm and above,1000
+2008,NCR,Palosapis,60 cm and above,-
+2008,NCR,Tangile,60 cm and above,-
+2008,NCR,Yakal,60 cm and above,-
+2008,CAR,A. Mangium,60 cm and above,-
+2008,CAR,Acacia,60 cm and above,-
+2008,CAR,Apitong,60 cm and above,5500
+2008,CAR,Bagtikan,60 cm and above,-
+2008,CAR,Benguet Pine,60 cm and above,6456
+2008,CAR,Falcata,60 cm and above,-
+2008,CAR,Gmelina,60 cm and above,-
+2008,CAR,Gubas,60 cm and above,-
+2008,CAR,Lauan,60 cm and above,5500
+2008,CAR,Mahogany,60 cm and above,-
+2008,CAR,Mayapis,60 cm and above,5500
+2008,CAR,Nato,60 cm and above,-
+2008,CAR,Palosapis,60 cm and above,4500
+2008,CAR,Tangile,60 cm and above,5500
+2008,CAR,Yakal,60 cm and above,-
+2008,III (Central Luzon),A. Mangium,60 cm and above,-
+2008,III (Central Luzon),Acacia,60 cm and above,-
+2008,III (Central Luzon),Apitong,60 cm and above,-
+2008,III (Central Luzon),Bagtikan,60 cm and above,6000
+2008,III (Central Luzon),Benguet Pine,60 cm and above,-
+2008,III (Central Luzon),Falcata,60 cm and above,-
+2008,III (Central Luzon),Gmelina,60 cm and above,-
+2008,III (Central Luzon),Gubas,60 cm and above,-
+2008,III (Central Luzon),Lauan,60 cm and above,-
+2008,III (Central Luzon),Mahogany,60 cm and above,-
+2008,III (Central Luzon),Mayapis,60 cm and above,6000
+2008,III (Central Luzon),Nato,60 cm and above,-
+2008,III (Central Luzon),Palosapis,60 cm and above,-
+2008,III (Central Luzon),Tangile,60 cm and above,6000
+2008,III (Central Luzon),Yakal,60 cm and above,-
+2008,VII (Central Visayas),A. Mangium,60 cm and above,-
+2008,VII (Central Visayas),Acacia,60 cm and above,-
+2008,VII (Central Visayas),Apitong,60 cm and above,-
+2008,VII (Central Visayas),Bagtikan,60 cm and above,-
+2008,VII (Central Visayas),Benguet Pine,60 cm and above,-
+2008,VII (Central Visayas),Falcata,60 cm and above,-
+2008,VII (Central Visayas),Gmelina,60 cm and above,2968
+2008,VII (Central Visayas),Gubas,60 cm and above,-
+2008,VII (Central Visayas),Lauan,60 cm and above,-
+2008,VII (Central Visayas),Mahogany,60 cm and above,4240
+2008,VII (Central Visayas),Mayapis,60 cm and above,-
+2008,VII (Central Visayas),Nato,60 cm and above,-
+2008,VII (Central Visayas),Palosapis,60 cm and above,-
+2008,VII (Central Visayas),Tangile,60 cm and above,-
+2008,VII (Central Visayas),Yakal,60 cm and above,-
+2008,X (Northern Mindanao),A. Mangium,60 cm and above,-
+2008,X (Northern Mindanao),Acacia,60 cm and above,-
+2008,X (Northern Mindanao),Apitong,60 cm and above,-
+2008,X (Northern Mindanao),Bagtikan,60 cm and above,-
+2008,X (Northern Mindanao),Benguet Pine,60 cm and above,-
+2008,X (Northern Mindanao),Falcata,60 cm and above,2375
+2008,X (Northern Mindanao),Gmelina,60 cm and above,-
+2008,X (Northern Mindanao),Gubas,60 cm and above,-
+2008,X (Northern Mindanao),Lauan,60 cm and above,-
+2008,X (Northern Mindanao),Mahogany,60 cm and above,-
+2008,X (Northern Mindanao),Mayapis,60 cm and above,-
+2008,X (Northern Mindanao),Nato,60 cm and above,-
+2008,X (Northern Mindanao),Palosapis,60 cm and above,-
+2008,X (Northern Mindanao),Tangile,60 cm and above,-
+2008,X (Northern Mindanao),Yakal,60 cm and above,-
+2008,XI (Davao Region),A. Mangium,60 cm and above,-
+2008,XI (Davao Region),Acacia,60 cm and above,-
+2008,XI (Davao Region),Apitong,60 cm and above,3000
+2008,XI (Davao Region),Bagtikan,60 cm and above,-
+2008,XI (Davao Region),Benguet Pine,60 cm and above,-
+2008,XI (Davao Region),Falcata,60 cm and above,3500
+2008,XI (Davao Region),Gmelina,60 cm and above,-
+2008,XI (Davao Region),Gubas,60 cm and above,-
+2008,XI (Davao Region),Lauan,60 cm and above,3800
+2008,XI (Davao Region),Mahogany,60 cm and above,-
+2008,XI (Davao Region),Mayapis,60 cm and above,-
+2008,XI (Davao Region),Nato,60 cm and above,-
+2008,XI (Davao Region),Palosapis,60 cm and above,-
+2008,XI (Davao Region),Tangile,60 cm and above,-
+2008,XI (Davao Region),Yakal,60 cm and above,-
+2008,XII (SOCCSKSARGEN),A. Mangium,60 cm and above,-
+2008,XII (SOCCSKSARGEN),Acacia,60 cm and above,3000
+2008,XII (SOCCSKSARGEN),Apitong,60 cm and above,-
+2008,XII (SOCCSKSARGEN),Bagtikan,60 cm and above,-
+2008,XII (SOCCSKSARGEN),Benguet Pine,60 cm and above,-
+2008,XII (SOCCSKSARGEN),Falcata,60 cm and above,-
+2008,XII (SOCCSKSARGEN),Gmelina,60 cm and above,-
+2008,XII (SOCCSKSARGEN),Gubas,60 cm and above,-
+2008,XII (SOCCSKSARGEN),Lauan,60 cm and above,-
+2008,XII (SOCCSKSARGEN),Mahogany,60 cm and above,-
+2008,XII (SOCCSKSARGEN),Mayapis,60 cm and above,-
+2008,XII (SOCCSKSARGEN),Nato,60 cm and above,-
+2008,XII (SOCCSKSARGEN),Palosapis,60 cm and above,-
+2008,XII (SOCCSKSARGEN),Tangile,60 cm and above,-
+2008,XII (SOCCSKSARGEN),Yakal,60 cm and above,-
+2008,XIII (Caraga),A. Mangium,60 cm and above,2000
+2008,XIII (Caraga),Acacia,60 cm and above,-
+2008,XIII (Caraga),Apitong,60 cm and above,-
+2008,XIII (Caraga),Bagtikan,60 cm and above,-
+2008,XIII (Caraga),Benguet Pine,60 cm and above,-
+2008,XIII (Caraga),Falcata,60 cm and above,3456
+2008,XIII (Caraga),Gmelina,60 cm and above,-
+2008,XIII (Caraga),Gubas,60 cm and above,2100
+2008,XIII (Caraga),Lauan,60 cm and above,1850
+2008,XIII (Caraga),Mahogany,60 cm and above,-
+2008,XIII (Caraga),Mayapis,60 cm and above,-
+2008,XIII (Caraga),Nato,60 cm and above,1500
+2008,XIII (Caraga),Palosapis,60 cm and above,-
+2008,XIII (Caraga),Tangile,60 cm and above,1850
+2008,XIII (Caraga),Yakal,60 cm and above,2050
+2007,National,Apitong,60 cm and above,4136
+2007,National,Bagtikan,60 cm and above,6000
+2007,National,Falcata,60 cm and above,2706
+2007,National,Lauan,60 cm and above,3936
+2007,National,Mahogany,60 cm and above,2335
+2007,National,Mayapis,60 cm and above,5250
+2007,National,Nato,60 cm and above,5250
+2007,National,Tangile,60 cm and above,5250
+2007,National,Toog,60 cm and above,4111
+2007,National,Yakal,60 cm and above,5746
+2007,CAR,Apitong,60 cm and above,-
+2007,CAR,Bagtikan,60 cm and above,-
+2007,CAR,Falcata,60 cm and above,-
+2007,CAR,Lauan,60 cm and above,4500
+2007,CAR,Mahogany,60 cm and above,-
+2007,CAR,Mayapis,60 cm and above,4500
+2007,CAR,Nato,60 cm and above,-
+2007,CAR,Tangile,60 cm and above,4500
+2007,CAR,Toog,60 cm and above,-
+2007,CAR,Yakal,60 cm and above,-
+2007,III (Central Luzon),Apitong,60 cm and above,-
+2007,III (Central Luzon),Bagtikan,60 cm and above,6000
+2007,III (Central Luzon),Falcata,60 cm and above,-
+2007,III (Central Luzon),Lauan,60 cm and above,2000
+2007,III (Central Luzon),Mahogany,60 cm and above,2335
+2007,III (Central Luzon),Mayapis,60 cm and above,6000
+2007,III (Central Luzon),Nato,60 cm and above,6000
+2007,III (Central Luzon),Tangile,60 cm and above,6000
+2007,III (Central Luzon),Toog,60 cm and above,-
+2007,III (Central Luzon),Yakal,60 cm and above,-
+2007,XI (Davao Region),Apitong,60 cm and above,3000
+2007,XI (Davao Region),Bagtikan,60 cm and above,-
+2007,XI (Davao Region),Falcata,60 cm and above,2706
+2007,XI (Davao Region),Lauan,60 cm and above,3500
+2007,XI (Davao Region),Mahogany,60 cm and above,-
+2007,XI (Davao Region),Mayapis,60 cm and above,-
+2007,XI (Davao Region),Nato,60 cm and above,-
+2007,XI (Davao Region),Tangile,60 cm and above,-
+2007,XI (Davao Region),Toog,60 cm and above,-
+2007,XI (Davao Region),Yakal,60 cm and above,-
+2007,XIII (Caraga),Apitong,60 cm and above,5272
+2007,XIII (Caraga),Bagtikan,60 cm and above,-
+2007,XIII (Caraga),Falcata,60 cm and above,-
+2007,XIII (Caraga),Lauan,60 cm and above,5744
+2007,XIII (Caraga),Mahogany,60 cm and above,-
+2007,XIII (Caraga),Mayapis,60 cm and above,-
+2007,XIII (Caraga),Nato,60 cm and above,4500
+2007,XIII (Caraga),Tangile,60 cm and above,-
+2007,XIII (Caraga),Toog,60 cm and above,4111
+2007,XIII (Caraga),Yakal,60 cm and above,5746
+2006,National,Almon,60 cm and above,3800
+2006,National,Apitong,60 cm and above,4130
+2006,National,Bagras,60 cm and above,5200
+2006,National,Bagtikan,60 cm and above,4900
+2006,National,Benguet Pine,60 cm and above,5606
+2006,National,Binuang,60 cm and above,2885
+2006,National,Falcata,60 cm and above,2932.33
+2006,National,Gubas,60 cm and above,3000
+2006,National,Guijo,60 cm and above,5400
+2006,National,Gmelina,60 cm and above,2120
+2006,National,Lauan,60 cm and above,5405.33
+2006,National,Loktob,60 cm and above,2885
+2006,National,Mayapis,60 cm and above,5073
+2006,National,Nato,60 cm and above,4500
+2006,National,Tangile,60 cm and above,4648.67
+2006,National,Toog,60 cm and above,4087
+2006,National,Yakal,60 cm and above,5725
+2006,CAR,Almon,60 cm and above,-
+2006,CAR,Apitong,60 cm and above,-
+2006,CAR,Bagras,60 cm and above,-
+2006,CAR,Bagtikan,60 cm and above,-
+2006,CAR,Benguet Pine,60 cm and above,5606
+2006,CAR,Binuang,60 cm and above,-
+2006,CAR,Falcata,60 cm and above,-
+2006,CAR,Gubas,60 cm and above,-
+2006,CAR,Guijo,60 cm and above,-
+2006,CAR,Gmelina,60 cm and above,-
+2006,CAR,Lauan,60 cm and above,4146
+2006,CAR,Loktob,60 cm and above,-
+2006,CAR,Mayapis,60 cm and above,4146
+2006,CAR,Nato,60 cm and above,-
+2006,CAR,Tangile,60 cm and above,4146
+2006,CAR,Toog,60 cm and above,-
+2006,CAR,Yakal,60 cm and above,-
+2006,II (Cagayan Valley),Almon,60 cm and above,-
+2006,II (Cagayan Valley),Apitong,60 cm and above,-
+2006,II (Cagayan Valley),Bagras,60 cm and above,-
+2006,II (Cagayan Valley),Bagtikan,60 cm and above,-
+2006,II (Cagayan Valley),Benguet Pine,60 cm and above,-
+2006,II (Cagayan Valley),Binuang,60 cm and above,-
+2006,II (Cagayan Valley),Falcata,60 cm and above,-
+2006,II (Cagayan Valley),Gubas,60 cm and above,-
+2006,II (Cagayan Valley),Guijo,60 cm and above,-
+2006,II (Cagayan Valley),Gmelina,60 cm and above,2120
+2006,II (Cagayan Valley),Lauan,60 cm and above,-
+2006,II (Cagayan Valley),Loktob,60 cm and above,-
+2006,II (Cagayan Valley),Mayapis,60 cm and above,-
+2006,II (Cagayan Valley),Nato,60 cm and above,-
+2006,II (Cagayan Valley),Tangile,60 cm and above,-
+2006,II (Cagayan Valley),Toog,60 cm and above,-
+2006,II (Cagayan Valley),Yakal,60 cm and above,-
+2006,III (Central Luzon),Almon,60 cm and above,-
+2006,III (Central Luzon),Apitong,60 cm and above,-
+2006,III (Central Luzon),Bagras,60 cm and above,-
+2006,III (Central Luzon),Bagtikan,60 cm and above,6000
+2006,III (Central Luzon),Benguet Pine,60 cm and above,-
+2006,III (Central Luzon),Binuang,60 cm and above,-
+2006,III (Central Luzon),Falcata,60 cm and above,-
+2006,III (Central Luzon),Gubas,60 cm and above,-
+2006,III (Central Luzon),Guijo,60 cm and above,-
+2006,III (Central Luzon),Gmelina,60 cm and above,-
+2006,III (Central Luzon),Lauan,60 cm and above,-
+2006,III (Central Luzon),Loktob,60 cm and above,-
+2006,III (Central Luzon),Mayapis,60 cm and above,6000
+2006,III (Central Luzon),Nato,60 cm and above,-
+2006,III (Central Luzon),Tangile,60 cm and above,6000
+2006,III (Central Luzon),Toog,60 cm and above,-
+2006,III (Central Luzon),Yakal,60 cm and above,-
+2006,XI (Davao Region),Almon,60 cm and above,3800
+2006,XI (Davao Region),Apitong,60 cm and above,3000
+2006,XI (Davao Region),Bagras,60 cm and above,5200
+2006,XI (Davao Region),Bagtikan,60 cm and above,3800
+2006,XI (Davao Region),Benguet Pine,60 cm and above,-
+2006,XI (Davao Region),Binuang,60 cm and above,2885
+2006,XI (Davao Region),Falcata,60 cm and above,2667
+2006,XI (Davao Region),Gubas,60 cm and above,3000
+2006,XI (Davao Region),Guijo,60 cm and above,-
+2006,XI (Davao Region),Gmelina,60 cm and above,-
+2006,XI (Davao Region),Lauan,60 cm and above,6600
+2006,XI (Davao Region),Loktob,60 cm and above,2885
+2006,XI (Davao Region),Mayapis,60 cm and above,-
+2006,XI (Davao Region),Nato,60 cm and above,-
+2006,XI (Davao Region),Tangile,60 cm and above,3800
+2006,XI (Davao Region),Toog,60 cm and above,-
+2006,XI (Davao Region),Yakal,60 cm and above,-
+2006,XII (SOCCSKSARGEN),Almon,60 cm and above,-
+2006,XII (SOCCSKSARGEN),Apitong,60 cm and above,-
+2006,XII (SOCCSKSARGEN),Bagras,60 cm and above,-
+2006,XII (SOCCSKSARGEN),Bagtikan,60 cm and above,-
+2006,XII (SOCCSKSARGEN),Benguet Pine,60 cm and above,-
+2006,XII (SOCCSKSARGEN),Binuang,60 cm and above,-
+2006,XII (SOCCSKSARGEN),Falcata,60 cm and above,3392
+2006,XII (SOCCSKSARGEN),Gubas,60 cm and above,-
+2006,XII (SOCCSKSARGEN),Guijo,60 cm and above,-
+2006,XII (SOCCSKSARGEN),Gmelina,60 cm and above,-
+2006,XII (SOCCSKSARGEN),Lauan,60 cm and above,-
+2006,XII (SOCCSKSARGEN),Loktob,60 cm and above,-
+2006,XII (SOCCSKSARGEN),Mayapis,60 cm and above,-
+2006,XII (SOCCSKSARGEN),Nato,60 cm and above,-
+2006,XII (SOCCSKSARGEN),Tangile,60 cm and above,-
+2006,XII (SOCCSKSARGEN),Toog,60 cm and above,-
+2006,XII (SOCCSKSARGEN),Yakal,60 cm and above,-
+2006,XIII (Caraga),Almon,60 cm and above,-
+2006,XIII (Caraga),Apitong,60 cm and above,5260
+2006,XIII (Caraga),Bagras,60 cm and above,-
+2006,XIII (Caraga),Bagtikan,60 cm and above,-
+2006,XIII (Caraga),Benguet Pine,60 cm and above,-
+2006,XIII (Caraga),Binuang,60 cm and above,-
+2006,XIII (Caraga),Falcata,60 cm and above,2738
+2006,XIII (Caraga),Gubas,60 cm and above,-
+2006,XIII (Caraga),Guijo,60 cm and above,5400
+2006,XIII (Caraga),Gmelina,60 cm and above,-
+2006,XIII (Caraga),Lauan,60 cm and above,5470
+2006,XIII (Caraga),Loktob,60 cm and above,-
+2006,XIII (Caraga),Mayapis,60 cm and above,-
+2006,XIII (Caraga),Nato,60 cm and above,4500
+2006,XIII (Caraga),Tangile,60 cm and above,-
+2006,XIII (Caraga),Toog,60 cm and above,4087
+2006,XIII (Caraga),Yakal,60 cm and above,5725
+2005,National,Apitong,60 cm and above,5222
+2005,National,Falcata,60 cm and above,2502
+2005,National,Gubas,60 cm and above,3000
+2005,National,Guijo,60 cm and above,5400
+2005,National,Gmelina,60 cm and above,1946
+2005,National,Lauan,60 cm and above,5716.25
+2005,National,Malugay,60 cm and above,3500
+2005,National,Nato,60 cm and above,4500
+2005,National,Toog,60 cm and above,4113
+2005,National,Yakal,60 cm and above,5700
+2005,NCR,Apitong,60 cm and above,-
+2005,NCR,Falcata,60 cm and above,-
+2005,NCR,Gubas,60 cm and above,-
+2005,NCR,Guijo,60 cm and above,-
+2005,NCR,Gmelina,60 cm and above,-
+2005,NCR,Lauan,60 cm and above,6000
+2005,NCR,Malugay,60 cm and above,-
+2005,NCR,Nato,60 cm and above,-
+2005,NCR,Toog,60 cm and above,-
+2005,NCR,Yakal,60 cm and above,-
+2005,CAR,Apitong,60 cm and above,-
+2005,CAR,Falcata,60 cm and above,-
+2005,CAR,Gubas,60 cm and above,-
+2005,CAR,Guijo,60 cm and above,-
+2005,CAR,Gmelina,60 cm and above,-
+2005,CAR,Lauan,60 cm and above,4500
+2005,CAR,Malugay,60 cm and above,-
+2005,CAR,Nato,60 cm and above,-
+2005,CAR,Toog,60 cm and above,-
+2005,CAR,Yakal,60 cm and above,-
+2005,XI (Davao Region),Apitong,60 cm and above,-
+2005,XI (Davao Region),Falcata,60 cm and above,2900
+2005,XI (Davao Region),Gubas,60 cm and above,3000
+2005,XI (Davao Region),Guijo,60 cm and above,-
+2005,XI (Davao Region),Gmelina,60 cm and above,-
+2005,XI (Davao Region),Lauan,60 cm and above,6600
+2005,XI (Davao Region),Malugay,60 cm and above,-
+2005,XI (Davao Region),Nato,60 cm and above,-
+2005,XI (Davao Region),Toog,60 cm and above,-
+2005,XI (Davao Region),Yakal,60 cm and above,-
+2005,XIII (Caraga),Apitong,60 cm and above,5222
+2005,XIII (Caraga),Falcata,60 cm and above,2104
+2005,XIII (Caraga),Gubas,60 cm and above,-
+2005,XIII (Caraga),Guijo,60 cm and above,5400
+2005,XIII (Caraga),Gmelina,60 cm and above,1946
+2005,XIII (Caraga),Lauan,60 cm and above,5765
+2005,XIII (Caraga),Malugay,60 cm and above,3500
+2005,XIII (Caraga),Nato,60 cm and above,4500
+2005,XIII (Caraga),Toog,60 cm and above,4113
+2005,XIII (Caraga),Yakal,60 cm and above,5700
+2004,National,Acacia,60 cm and above,6360
+2004,National,Apitong,60 cm and above,5140
+2004,National,Bagtikan,60 cm and above,6000
+2004,National,Benguet Pine,60 cm and above,4849
+2004,National,Falcata,60 cm and above,2106.25
+2004,National,Gmelina,60 cm and above,1713.33
+2004,National,Lauan,60 cm and above,5390.33
+2004,National,Mahogany,60 cm and above,5953.33
+2004,National,Malugay,60 cm and above,3375
+2004,National,Mayapis,60 cm and above,5250
+2004,National,Nato,60 cm and above,4500
+2004,National,Tangile,60 cm and above,5500
+2004,National,Toog,60 cm and above,4450
+2004,National,Yakal,60 cm and above,6984
+2004,NCR,Acacia,60 cm and above,-
+2004,NCR,Apitong,60 cm and above,-
+2004,NCR,Bagtikan,60 cm and above,-
+2004,NCR,Benguet Pine,60 cm and above,-
+2004,NCR,Falcata,60 cm and above,-
+2004,NCR,Gmelina,60 cm and above,-
+2004,NCR,Lauan,60 cm and above,3420
+2004,NCR,Mahogany,60 cm and above,-
+2004,NCR,Malugay,60 cm and above,-
+2004,NCR,Mayapis,60 cm and above,-
+2004,NCR,Nato,60 cm and above,-
+2004,NCR,Tangile,60 cm and above,-
+2004,NCR,Toog,60 cm and above,-
+2004,NCR,Yakal,60 cm and above,-
+2004,CAR,Acacia,60 cm and above,-
+2004,CAR,Apitong,60 cm and above,-
+2004,CAR,Bagtikan,60 cm and above,-
+2004,CAR,Benguet Pine,60 cm and above,4849
+2004,CAR,Falcata,60 cm and above,-
+2004,CAR,Gmelina,60 cm and above,-
+2004,CAR,Lauan,60 cm and above,4500
+2004,CAR,Mahogany,60 cm and above,-
+2004,CAR,Malugay,60 cm and above,-
+2004,CAR,Mayapis,60 cm and above,4500
+2004,CAR,Nato,60 cm and above,-
+2004,CAR,Tangile,60 cm and above,4500
+2004,CAR,Toog,60 cm and above,-
+2004,CAR,Yakal,60 cm and above,-
+2004,II (Cagayan Valley),Acacia,60 cm and above,-
+2004,II (Cagayan Valley),Apitong,60 cm and above,-
+2004,II (Cagayan Valley),Bagtikan,60 cm and above,-
+2004,II (Cagayan Valley),Benguet Pine,60 cm and above,-
+2004,II (Cagayan Valley),Falcata,60 cm and above,-
+2004,II (Cagayan Valley),Gmelina,60 cm and above,1790
+2004,II (Cagayan Valley),Lauan,60 cm and above,-
+2004,II (Cagayan Valley),Mahogany,60 cm and above,-
+2004,II (Cagayan Valley),Malugay,60 cm and above,-
+2004,II (Cagayan Valley),Mayapis,60 cm and above,-
+2004,II (Cagayan Valley),Nato,60 cm and above,-
+2004,II (Cagayan Valley),Tangile,60 cm and above,-
+2004,II (Cagayan Valley),Toog,60 cm and above,-
+2004,II (Cagayan Valley),Yakal,60 cm and above,-
+2004,III (Central Luzon),Acacia,60 cm and above,-
+2004,III (Central Luzon),Apitong,60 cm and above,-
+2004,III (Central Luzon),Bagtikan,60 cm and above,6000
+2004,III (Central Luzon),Benguet Pine,60 cm and above,-
+2004,III (Central Luzon),Falcata,60 cm and above,1800
+2004,III (Central Luzon),Gmelina,60 cm and above,-
+2004,III (Central Luzon),Lauan,60 cm and above,6000
+2004,III (Central Luzon),Mahogany,60 cm and above,6500
+2004,III (Central Luzon),Malugay,60 cm and above,-
+2004,III (Central Luzon),Mayapis,60 cm and above,6000
+2004,III (Central Luzon),Nato,60 cm and above,-
+2004,III (Central Luzon),Tangile,60 cm and above,6000
+2004,III (Central Luzon),Toog,60 cm and above,-
+2004,III (Central Luzon),Yakal,60 cm and above,-
+2004,V (Bicol Region),Acacia,60 cm and above,6360
+2004,V (Bicol Region),Apitong,60 cm and above,-
+2004,V (Bicol Region),Bagtikan,60 cm and above,-
+2004,V (Bicol Region),Benguet Pine,60 cm and above,-
+2004,V (Bicol Region),Falcata,60 cm and above,-
+2004,V (Bicol Region),Gmelina,60 cm and above,-
+2004,V (Bicol Region),Lauan,60 cm and above,-
+2004,V (Bicol Region),Mahogany,60 cm and above,-
+2004,V (Bicol Region),Malugay,60 cm and above,-
+2004,V (Bicol Region),Mayapis,60 cm and above,-
+2004,V (Bicol Region),Nato,60 cm and above,-
+2004,V (Bicol Region),Tangile,60 cm and above,-
+2004,V (Bicol Region),Toog,60 cm and above,-
+2004,V (Bicol Region),Yakal,60 cm and above,-
+2004,VII (Central Visayas),Acacia,60 cm and above,-
+2004,VII (Central Visayas),Apitong,60 cm and above,-
+2004,VII (Central Visayas),Bagtikan,60 cm and above,-
+2004,VII (Central Visayas),Benguet Pine,60 cm and above,-
+2004,VII (Central Visayas),Falcata,60 cm and above,-
+2004,VII (Central Visayas),Gmelina,60 cm and above,-
+2004,VII (Central Visayas),Lauan,60 cm and above,-
+2004,VII (Central Visayas),Mahogany,60 cm and above,6360
+2004,VII (Central Visayas),Malugay,60 cm and above,-
+2004,VII (Central Visayas),Mayapis,60 cm and above,-
+2004,VII (Central Visayas),Nato,60 cm and above,-
+2004,VII (Central Visayas),Tangile,60 cm and above,-
+2004,VII (Central Visayas),Toog,60 cm and above,-
+2004,VII (Central Visayas),Yakal,60 cm and above,-
+2004,IX (Zamboanga Peninsula),Acacia,60 cm and above,-
+2004,IX (Zamboanga Peninsula),Apitong,60 cm and above,-
+2004,IX (Zamboanga Peninsula),Bagtikan,60 cm and above,-
+2004,IX (Zamboanga Peninsula),Benguet Pine,60 cm and above,-
+2004,IX (Zamboanga Peninsula),Falcata,60 cm and above,-
+2004,IX (Zamboanga Peninsula),Gmelina,60 cm and above,1600
+2004,IX (Zamboanga Peninsula),Lauan,60 cm and above,-
+2004,IX (Zamboanga Peninsula),Mahogany,60 cm and above,-
+2004,IX (Zamboanga Peninsula),Malugay,60 cm and above,-
+2004,IX (Zamboanga Peninsula),Mayapis,60 cm and above,-
+2004,IX (Zamboanga Peninsula),Nato,60 cm and above,-
+2004,IX (Zamboanga Peninsula),Tangile,60 cm and above,-
+2004,IX (Zamboanga Peninsula),Toog,60 cm and above,-
+2004,IX (Zamboanga Peninsula),Yakal,60 cm and above,-
+2004,X (Northern Mindanao),Acacia,60 cm and above,-
+2004,X (Northern Mindanao),Apitong,60 cm and above,-
+2004,X (Northern Mindanao),Bagtikan,60 cm and above,-
+2004,X (Northern Mindanao),Benguet Pine,60 cm and above,-
+2004,X (Northern Mindanao),Falcata,60 cm and above,2125
+2004,X (Northern Mindanao),Gmelina,60 cm and above,-
+2004,X (Northern Mindanao),Lauan,60 cm and above,-
+2004,X (Northern Mindanao),Mahogany,60 cm and above,-
+2004,X (Northern Mindanao),Malugay,60 cm and above,-
+2004,X (Northern Mindanao),Mayapis,60 cm and above,-
+2004,X (Northern Mindanao),Nato,60 cm and above,-
+2004,X (Northern Mindanao),Tangile,60 cm and above,-
+2004,X (Northern Mindanao),Toog,60 cm and above,-
+2004,X (Northern Mindanao),Yakal,60 cm and above,-
+2004,XI (Davao Region),Acacia,60 cm and above,-
+2004,XI (Davao Region),Apitong,60 cm and above,-
+2004,XI (Davao Region),Bagtikan,60 cm and above,-
+2004,XI (Davao Region),Benguet Pine,60 cm and above,-
+2004,XI (Davao Region),Falcata,60 cm and above,1800
+2004,XI (Davao Region),Gmelina,60 cm and above,-
+2004,XI (Davao Region),Lauan,60 cm and above,6755
+2004,XI (Davao Region),Mahogany,60 cm and above,5000
+2004,XI (Davao Region),Malugay,60 cm and above,-
+2004,XI (Davao Region),Mayapis,60 cm and above,-
+2004,XI (Davao Region),Nato,60 cm and above,-
+2004,XI (Davao Region),Tangile,60 cm and above,-
+2004,XI (Davao Region),Toog,60 cm and above,-
+2004,XI (Davao Region),Yakal,60 cm and above,8480
+2004,XII (SOCCSKSARGEN),Acacia,60 cm and above,-
+2004,XII (SOCCSKSARGEN),Apitong,60 cm and above,-
+2004,XII (SOCCSKSARGEN),Bagtikan,60 cm and above,6000
+2004,XII (SOCCSKSARGEN),Benguet Pine,60 cm and above,-
+2004,XII (SOCCSKSARGEN),Falcata,60 cm and above,-
+2004,XII (SOCCSKSARGEN),Gmelina,60 cm and above,-
+2004,XII (SOCCSKSARGEN),Lauan,60 cm and above,6000
+2004,XII (SOCCSKSARGEN),Mahogany,60 cm and above,-
+2004,XII (SOCCSKSARGEN),Malugay,60 cm and above,-
+2004,XII (SOCCSKSARGEN),Mayapis,60 cm and above,-
+2004,XII (SOCCSKSARGEN),Nato,60 cm and above,-
+2004,XII (SOCCSKSARGEN),Tangile,60 cm and above,6000
+2004,XII (SOCCSKSARGEN),Toog,60 cm and above,-
+2004,XII (SOCCSKSARGEN),Yakal,60 cm and above,-
+2004,XIII (Caraga),Acacia,60 cm and above,-
+2004,XIII (Caraga),Apitong,60 cm and above,5140
+2004,XIII (Caraga),Bagtikan,60 cm and above,-
+2004,XIII (Caraga),Benguet Pine,60 cm and above,-
+2004,XIII (Caraga),Falcata,60 cm and above,2700
+2004,XIII (Caraga),Gmelina,60 cm and above,1750
+2004,XIII (Caraga),Lauan,60 cm and above,5667
+2004,XIII (Caraga),Mahogany,60 cm and above,-
+2004,XIII (Caraga),Malugay,60 cm and above,3375
+2004,XIII (Caraga),Mayapis,60 cm and above,-
+2004,XIII (Caraga),Nato,60 cm and above,4500
+2004,XIII (Caraga),Tangile,60 cm and above,-
+2004,XIII (Caraga),Toog,60 cm and above,4450
+2004,XIII (Caraga),Yakal,60 cm and above,5488
+2003,National,Apitong,60 cm and above,5625
+2003,National,Benguet Pine,60 cm and above,6763.16
+2003,National,Falcata,60 cm and above,2750
+2003,National,Gmelina,60 cm and above,2968
+2003,National,Gubas,60 cm and above,4300
+2003,National,Guijo,60 cm and above,5400
+2003,National,Lauan,60 cm and above,6633.25
+2003,National,Mahogany,60 cm and above,4240
+2003,National,Malugay,60 cm and above,3500
+2003,National,Nato,60 cm and above,3666.67
+2003,National,Toog,60 cm and above,3975
+2003,National,Yakal,60 cm and above,6208.33
+2003,CAR,Apitong,60 cm and above,-
+2003,CAR,Benguet Pine,60 cm and above,6763.16
+2003,CAR,Falcata,60 cm and above,-
+2003,CAR,Gmelina,60 cm and above,-
+2003,CAR,Gubas,60 cm and above,-
+2003,CAR,Guijo,60 cm and above,-
+2003,CAR,Lauan,60 cm and above,7166.5
+2003,CAR,Mahogany,60 cm and above,-
+2003,CAR,Malugay,60 cm and above,-
+2003,CAR,Nato,60 cm and above,-
+2003,CAR,Toog,60 cm and above,-
+2003,CAR,Yakal,60 cm and above,-
+2003,VII (Central Visayas),Apitong,60 cm and above,-
+2003,VII (Central Visayas),Benguet Pine,60 cm and above,-
+2003,VII (Central Visayas),Falcata,60 cm and above,-
+2003,VII (Central Visayas),Gmelina,60 cm and above,2968
+2003,VII (Central Visayas),Gubas,60 cm and above,-
+2003,VII (Central Visayas),Guijo,60 cm and above,-
+2003,VII (Central Visayas),Lauan,60 cm and above,-
+2003,VII (Central Visayas),Mahogany,60 cm and above,4240
+2003,VII (Central Visayas),Malugay,60 cm and above,-
+2003,VII (Central Visayas),Nato,60 cm and above,-
+2003,VII (Central Visayas),Toog,60 cm and above,-
+2003,VII (Central Visayas),Yakal,60 cm and above,-
+2003,XIII (Caraga),Apitong,60 cm and above,5625
+2003,XIII (Caraga),Benguet Pine,60 cm and above,-
+2003,XIII (Caraga),Falcata,60 cm and above,2750
+2003,XIII (Caraga),Gmelina,60 cm and above,-
+2003,XIII (Caraga),Gubas,60 cm and above,4300
+2003,XIII (Caraga),Guijo,60 cm and above,5400
+2003,XIII (Caraga),Lauan,60 cm and above,6100
+2003,XIII (Caraga),Mahogany,60 cm and above,-
+2003,XIII (Caraga),Malugay,60 cm and above,3500
+2003,XIII (Caraga),Nato,60 cm and above,3666.67
+2003,XIII (Caraga),Toog,60 cm and above,3975
+2003,XIII (Caraga),Yakal,60 cm and above,6208.33

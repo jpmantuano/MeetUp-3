@@ -1,0 +1,83 @@
+region,province,closed_area_hectares
+CAR,Abra,43316
+CAR,Apayao,118982
+CAR,Benguet,3196
+CAR,Ifugao,13692
+CAR,Kalinga,48888
+CAR,Mountain Province,27478
+Region 1,Ilocos Norte,14266
+Region 1,Ilocos Sur,78
+Region 1,La Union,0
+Region 1,Pangasinan,4046
+Region 2,Batanes,0
+Region 2,Cagayan,206475
+Region 2,Isabela,69444
+Region 2,Nueva Vizcaya,122615
+Region 2,Quirino,86729
+Region 3,Aurora,132548
+Region 3,Bataan,10618
+Region 3,Bulacan,35266
+Region 3,Nueva Ecija,9530
+Region 3,Pampanga,773
+Region 3,Tarlac,5407
+Region 3,Zambales,31209
+NCR,Metro Manila,0
+Region 4A,Batangas,334
+Region 4A,Cavite,0
+Region 4A,Laguna,1234
+Region 4A,Quezon,63853
+Region 4A,Rizal,4139
+MIMAROPA,Marinduque,0
+MIMAROPA,Occidental Mindoro,1968
+MIMAROPA,Oriental Mindoro,5301
+MIMAROPA,Palawan,86877
+MIMAROPA,Romblon,3664
+Region 5,Albay,11196
+Region 5,Camarines Norte,9466
+Region 5,Camarines Sur,8221
+Region 5,Catanduanes,10763
+Region 5,Masbate,0
+Region 5,Sorsogon,0
+Region 6,Aklan,12599
+Region 6,Antique,20380
+Region 6,Capiz,14728
+Region 6,Guimaras,0
+Region 6,Iloilo,2954
+Region 6,Negros Occidental,16506
+Region 7,Bohol,0
+Region 7,Cebu,8723
+Region 7,Negros Oriental,2741
+Region 7,Siquijor,0
+Region 8,Biliran,0
+Region 8,Eastern Samar,21828
+Region 8,Leyte,17170
+Region 8,Northern Samar,0
+Region 8,Southern Leyte,3202
+Region 8,Samar,3748
+Region 9,Zamboanga del Norte,9032
+Region 9,Zamboanga del Sur,794
+Region 9,Zamboanga Sibugay (with Zamboanga City),17817
+Region 10,Bukidnon,125361
+Region 10,Camiguin,3994
+Region 10,Lanao del Norte,11934
+Region 10,Misamis Occidental,23859
+Region 10,Misamis Oriental,8814
+Region 11,Compostela Valley,54106
+Region 11,Davao del Norte,10149
+Region 11,Davao del Sur/ Davao Occidental,17570
+Region 11,Davao Oriental,78258
+Region 12,Cotabato City,0
+Region 12,Cotabato,7896
+Region 12,Sarangani,1776
+Region 12,South Cotabato,26465
+Region 12,Sultan Kudarat,18111
+Region 13,Agusan del Norte,2217
+Region 13,Agusan del Sur,57208
+Region 13,Dinagat Islands,5641
+Region 13,Surigao del Norte,7139
+Region 13,Surigao del Sur,27606
+ARMM,Basilan (with Isabela),13705
+ARMM,Lanao del Sur,80245
+ARMM,Maguindanao,8202
+ARMM,Sulu,0
+ARMM,Tawi-Tawi,0

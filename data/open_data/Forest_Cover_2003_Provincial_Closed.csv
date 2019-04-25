@@ -1,0 +1,81 @@
+region,province,area_hectares
+CAR,Abra,54508
+CAR,Apayao,202276
+CAR,Benguet,4252
+CAR,Ifugao,26632
+CAR,Kalinga,55590
+CAR,Mountain Province,41619
+Region 1,Ilocos Norte,31780
+Region 1,Ilocos Sur,682
+Region 1,La Union,0
+Region 1,Pangasinan,5261
+Region 2,Batanes,224
+Region 2,Cagayan,250126
+Region 2,Isabela,70813
+Region 2,Nueva Vizcaya,72131
+Region 2,Quirino,109855
+Region 3,Aurora,118097
+Region 3,Bataan,14880
+Region 3,Bulacan,56168
+Region 3,Nueva Ecija,13654
+Region 3,Pampanga,984
+Region 3,Tarlac,6198
+Region 3,Zambales,16260
+NCR,Metro Manila,0
+Region 4A,Batangas,2232
+Region 4A,Cavite,0
+Region 4A,Laguna,1208
+Region 4A,Quezon,104919
+Region 4A,Rizal,8803
+MIMAROPA,Marinduque,0
+MIMAROPA,Occidental Mindoro,56024
+MIMAROPA,Oriental Mindoro ,21080
+MIMAROPA,Palawan,406349
+MIMAROPA,Romblon,1413
+Region 5,Albay,2922
+Region 5,Camarines Norte,10813
+Region 5,Camarines Sur,25494
+Region 5,Catanduanes,10381
+Region 5,Masbate,0
+Region 5,Sorsogon,1008
+Region 6,Aklan,25148
+Region 6,Antique,20967
+Region 6,Capiz,15260
+Region 6,Guimaras,0
+Region 6,Iloilo,3851
+Region 6,Negros Occidental,40647
+Region 7,Bohol,0
+Region 7,Cebu,919
+Region 7,Negros Oriental,1312
+Region 7,Siquijor,0
+Region 8,Biliran,205
+Region 8,Eastern Samar,20681
+Region 8,Leyte,3962
+Region 8,Northern Samar,2867
+Region 8,Southern Leyte,8451
+Region 8,Samar,307
+Region 9,Zamboanga del Norte,11908
+Region 9,Zamboanga del Sur,4519
+Region 9,Zamboanga Sibugay,13225
+Region 10,Bukidnon,64020
+Region 10,Camiguin,0
+Region 10,Lanao del Norte,6637
+Region 10,Misamis Occidental,29544
+Region 10,Misamis Oriental,6870
+Region 11,Compostela Valley,57288
+Region 11,Davao del Norte,9492
+Region 11,Davao del Sur,42872
+Region 11,Davao Oriental,67851
+Region 12,Cotabato,18808
+Region 12,Sarangani,29908
+Region 12,South Cotabato,52234
+Region 12,Sultan Kudarat,25435
+Region 13,Agusan del Norte,2247
+Region 13,Agusan del Sur,23470
+Region 13,Surigao del Norte,22364
+Region 13,Surigao del Sur,16648
+ARMM,Basilan,0
+ARMM,Lanao del Sur,105225
+ARMM,Maguindanao,1094
+ARMM,Sulu,0
+ARMM,Tawi-Tawi,0

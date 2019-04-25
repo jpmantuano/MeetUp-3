@@ -1,0 +1,81 @@
+region,province,area_hectares
+CAR,Abra,0
+CAR,Apayao,0
+CAR,Benguet,0
+CAR,Ifugao,0
+CAR,Kalinga,0
+CAR,Mountain Province,0
+Region 1,Ilocos Norte,0
+Region 1,Ilocos Sur,0
+Region 1,La Union,0
+Region 1,Pangasinan,151
+Region 2,Batanes,0
+Region 2,Cagayan,7334
+Region 2,Isabela,1268
+Region 2,Nueva Vizcaya,0
+Region 2,Quirino,0
+Region 3,Aurora,368
+Region 3,Bataan,0
+Region 3,Bulacan,0
+Region 3,Nueva Ecija,0
+Region 3,Pampanga,0
+Region 3,Tarlac,0
+Region 3,Zambales,0
+NCR,Metro Manila,30
+Region 4A,Batangas,286
+Region 4A,Cavite,298
+Region 4A,Laguna,0
+Region 4A,Quezon,10668
+Region 4A,Rizal,94
+MIMAROPA,Marinduque,2165
+MIMAROPA,Occidental Mindoro,289
+MIMAROPA,Oriental Mindoro ,57
+MIMAROPA,Palawan,54143
+MIMAROPA,Romblon,1378
+Region 5,Albay,683
+Region 5,Camarines Norte,5458
+Region 5,Camarines Sur,2340
+Region 5,Catanduanes,252
+Region 5,Masbate,2860
+Region 5,Sorsogon,1906
+Region 6,Aklan,166
+Region 6,Antique,293
+Region 6,Capiz,935
+Region 6,Guimaras,406
+Region 6,Iloilo,1059
+Region 6,Negros Occidental,1741
+Region 7,Bohol,6463
+Region 7,Cebu,3402
+Region 7,Negros Oriental,1789
+Region 7,Siquijor,116
+Region 8,Biliran,108
+Region 8,Eastern Samar,7328
+Region 8,Leyte,4683
+Region 8,Northern Samar,10718
+Region 8,Southern Leyte,16337
+Region 8,Samar,120
+Region 9,Zamboanga del Norte,676
+Region 9,Zamboanga del Sur,11681
+Region 9,Zamboanga Sibugay,9363
+Region 10,Bukidnon,0
+Region 10,Camiguin,0
+Region 10,Lanao del Norte,722
+Region 10,Misamis Occidental,1610
+Region 10,Misamis Oriental,160
+Region 11,Compostela Valley,53
+Region 11,Davao del Norte,55
+Region 11,Davao del Sur,277
+Region 11,Davao Oriental,1625
+Region 12,Cotabato,914
+Region 12,Sarangani,139
+Region 12,South Cotabato,0
+Region 12,Sultan Kudarat,383
+Region 13,Agusan del Norte,1333
+Region 13,Agusan del Sur,0
+Region 13,Surigao del Norte,16823
+Region 13,Surigao del Sur,8575
+ARMM,Basilan,6973
+ARMM,Lanao del Sur,149
+ARMM,Maguindanao,172
+ARMM,Sulu,24701
+ARMM,Tawi-Tawi,14831

@@ -1,0 +1,81 @@
+region,province,area_hectares
+CAR,Abra,100966
+CAR,Apayao,228452
+CAR,Benguet,116039
+CAR,Ifugao,73057
+CAR,Kalinga,78277
+CAR,Mountain Province,75529
+Region 1,Ilocos Norte,122425
+Region 1,Ilocos Sur,26988
+Region 1,La Union,3855
+Region 1,Pangasinan,36533
+Region 2,Batanes,5462
+Region 2,Cagayan,424213
+Region 2,Isabela,411804
+Region 2,Nueva Vizcaya,175923
+Region 2,Quirino,132443
+Region 3,Aurora,238776
+Region 3,Bataan,32205
+Region 3,Bulacan,73897
+Region 3,Nueva Ecija,94651
+Region 3,Pampanga,5992
+Region 3,Tarlac,41719
+Region 3,Zambales,102255
+NCR,Metro Manila,2820
+Region 4A,Batangas,13899
+Region 4A,Cavite,5737
+Region 4A,Laguna,16205
+Region 4A,Quezon,231190
+Region 4A,Rizal,22642
+MIMAROPA,Marinduque,13124
+MIMAROPA,Occidental Mindoro ,226351
+MIMAROPA,Oriental Mindoro ,223203
+MIMAROPA,Palawan,724176
+MIMAROPA,Romblon,8290
+Region 5,Albay,15827
+Region 5,Camarines Norte,22007
+Region 5,Camarines Sur,57187
+Region 5,Catanduanes,42140
+Region 5,Masbate,2860
+Region 5,Sorsogon,16455
+Region 6,Aklan,64509
+Region 6,Antique,80272
+Region 6,Capiz,24637
+Region 6,Guimaras,406
+Region 6,Iloilo,41875
+Region 6,Negros Occidental,52815
+Region 7,Bohol,19961
+Region 7,Cebu,16762
+Region 7,Negros Oriental,38030
+Region 7,Siquijor,116
+Region 8,Biliran,23630
+Region 8,Eastern Samar,172891
+Region 8,Leyte,65977
+Region 8,Northern Samar,41011
+Region 8,Southern Leyte,187360
+Region 8,Samar,28979
+Region 9,Zamboanga del Norte,100652
+Region 9,Zamboanga del Sur,32886
+Region 9,Zamboanga Sibugay,45258
+Region 10,Bukidnon,172595
+Region 10,Camiguin,7367
+Region 10,Lanao del Norte,68625
+Region 10,Misamis Occidental,43880
+Region 10,Misamis Oriental,45026
+Region 11,Compostela Valley,124560
+Region 11,Davao del Norte,67699
+Region 11,Davao del Sur,70099
+Region 11,Davao Oriental,158677
+Region 12,Cotabato,81054
+Region 12,Sarangani,48362
+Region 12,South Cotabato,80442
+Region 12,Sultan Kudarat,139376
+Region 13,Agusan del Norte,52024
+Region 13,Agusan del Sur,249494
+Region 13,Surigao del Norte,76050
+Region 13,Surigao del Sur,145724
+ARMM,Basilan,19904
+ARMM,Lanao del Sur,174745
+ARMM,Maguindanao,16354
+ARMM,Sulu,24701
+ARMM,Tawi-Tawi,18041

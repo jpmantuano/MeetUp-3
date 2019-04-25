@@ -1,0 +1,81 @@
+region,province,area_hectares
+CAR,Abra,39672
+CAR,Apayao,26176
+CAR,Benguet,94208
+CAR,Ifugao,31514
+CAR,Kalinga,22614
+CAR,Mountain Province,32664
+Region 1,Ilocos Norte,70131
+Region 1,Ilocos Sur,18546
+Region 1,La Union,866
+Region 1,Pangasinan,27674
+Region 2,Batanes,5238
+Region 2,Cagayan,151685
+Region 2,Isabela,339717
+Region 2,Nueva Vizcaya,88091
+Region 2,Quirino,19742
+Region 3,Aurora,120311
+Region 3,Bataan,16998
+Region 3,Bulacan,11726
+Region 3,Nueva Ecija,42459
+Region 3,Pampanga,5008
+Region 3,Tarlac,30044
+Region 3,Zambales,77669
+NCR,Metro Manila,2790
+Region 4A,Batangas,11381
+Region 4A,Cavite,5439
+Region 4A,Laguna,14997
+Region 4A,Quezon,115603
+Region 4A,Rizal,13745
+MIMAROPA,Marinduque,10930
+MIMAROPA,Occidental Mindoro ,167424
+MIMAROPA,Oriental Mindoro,166238
+MIMAROPA,Palawan,254155
+MIMAROPA,Romblon,5499
+Region 5,Albay,12222
+Region 5,Camarines Norte,5156
+Region 5,Camarines Sur,27858
+Region 5,Catanduanes,31507
+Region 5,Masbate,0
+Region 5,Sorsogon,13541
+Region 6,Aklan,36470
+Region 6,Antique,35099
+Region 6,Capiz,7683
+Region 6,Guimaras,0
+Region 6,Iloilo,15770
+Region 6,Negros Occidental,9664
+Region 7,Bohol,13407
+Region 7,Cebu,6785
+Region 7,Negros Oriental,22834
+Region 7,Siquijor,0
+Region 8,Biliran,0
+Region 8,Eastern Samar,142403
+Region 8,Leyte,57332
+Region 8,Northern Samar,26915
+Region 8,Southern Leyte,161639
+Region 8,Samar,21822
+Region 9,Zamboanga del Norte,85677
+Region 9,Zamboanga del Sur,16177
+Region 9,Zamboanga Sibugay,22145
+Region 10,Bukidnon,107235
+Region 10,Camiguin,7367
+Region 10,Lanao del Norte,61244
+Region 10,Misamis Occidental,12726
+Region 10,Misamis Oriental,37828
+Region 11,Compostela Valley,67219
+Region 11,Davao del Norte,58016
+Region 11,Davao del Sur,26550
+Region 11,Davao Oriental,89201
+Region 12,Cotabato,59044
+Region 12,Sarangani,18218
+Region 12,South Cotabato,28162
+Region 12,Sultan Kudarat,113434
+Region 13,Agusan del Norte,48444
+Region 13,Agusan del Sur,226024
+Region 13,Surigao del Norte,36863
+Region 13,Surigao del Sur,120501
+ARMM,Basilan,12931
+ARMM,Lanao del Sur,69371
+ARMM,Maguindanao,13940
+ARMM,Sulu,0
+ARMM,Tawi-Tawi,3210

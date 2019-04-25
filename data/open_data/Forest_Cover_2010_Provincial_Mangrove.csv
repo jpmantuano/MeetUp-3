@@ -1,0 +1,83 @@
+region,province,mangrove_area_hectares
+CAR,Abra,0
+CAR,Apayao,0
+CAR,Benguet,0
+CAR,Ifugao,0
+CAR,Kalinga,0
+CAR,Mountain Province,0
+Region 1,Ilocos Norte,0
+Region 1,Ilocos Sur,211
+Region 1,La Union,120
+Region 1,Pangasinan,697
+Region 2,Batanes,0
+Region 2,Cagayan,5179
+Region 2,Isabela,723
+Region 2,Nueva Vizcaya,0
+Region 2,Quirino,0
+Region 3,Aurora,521
+Region 3,Bataan,208
+Region 3,Bulacan,67
+Region 3,Nueva Ecija,0
+Region 3,Pampanga,85
+Region 3,Tarlac,0
+Region 3,Zambales,140
+NCR,Metro Manila,112
+Region 4A,Batangas,413
+Region 4A,Cavite,150
+Region 4A,Laguna,0
+Region 4A,Quezon,18374
+Region 4A,Rizal,0
+MIMAROPA,Marinduque,2877
+MIMAROPA,Occidental Mindoro,1594
+MIMAROPA,Oriental Mindoro,3949
+MIMAROPA,Palawan,63792
+MIMAROPA,Romblon,1084
+Region 5,Albay,1092
+Region 5,Camarines Norte,3559
+Region 5,Camarines Sur,7264
+Region 5,Catanduanes,1995
+Region 5,Masbate,6638
+Region 5,Sorsogon,4425
+Region 6,Aklan,702
+Region 6,Antique,792
+Region 6,Capiz,1399
+Region 6,Guimaras,776
+Region 6,Iloilo,1316
+Region 6,Negros Occidental,5021
+Region 7,Bohol,10590
+Region 7,Cebu,3034
+Region 7,Negros Oriental,1051
+Region 7,Siquijor,96
+Region 8,Biliran,286
+Region 8,Eastern Samar,7834
+Region 8,Leyte,8279
+Region 8,Northern Samar,10826
+Region 8,Southern Leyte,589
+Region 8,Samar,13880
+Region 9,Zamboanga del Norte,592
+Region 9,Zamboanga del Sur,6105
+Region 9,Zamboanga Sibugay (with Zamboanga City),18994
+Region 10,Bukidnon,0
+Region 10,Camiguin,19
+Region 10,Lanao del Norte,2328
+Region 10,Misamis Occidental,3739
+Region 10,Misamis Oriental,293
+Region 11,Compostela Valley,209
+Region 11,Davao del Norte,670
+Region 11,Davao del Sur/ Davao Occidental,132
+Region 11,Davao Oriental,1868
+Region 12,Cotabato City,670
+Region 12,Cotabato,0
+Region 12,Sarangani,147
+Region 12,South Cotabato,24
+Region 12,Sultan Kudarat,760
+Region 13,Agusan del Norte,1231
+Region 13,Agusan del Sur,0
+Region 13,Dinagat Islands,2360
+Region 13,Surigao del Norte,13234
+Region 13,Surigao del Sur,9072
+ARMM,Basilan (with Isabela),9708
+ARMM,Lanao del Sur,464
+ARMM,Maguindanao,1061
+ARMM,Sulu,30083
+ARMM,Tawi-Tawi,15091
